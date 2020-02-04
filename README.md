@@ -1,6 +1,6 @@
 # State and Local Digital Service Teams in the U.S.
 
-A list of digital service teams, built on the [USDS](https://www.usds.gov/) or [18F](https://18f.gov/) models, operating at the state and local levels in the United States.
+A list of digital service teams, built on the [USDS](https://www.usds.gov/) or [18F](https://18f.gov/) models, operating at the state and local levels in the United States. These are teams of government employees that exist to promote the use of Agile, user-centered design, and product thinking, which may develop software themselves or may facilitate improved procurement practices to the same ends.
 
 ## [MA Digital Service](https://www.mass.gov/orgs/ma-digital-service)
 
