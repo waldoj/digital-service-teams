@@ -14,10 +14,10 @@ Part of the Governor's Office of Information Technology.
 
 Part of the [Connecticut Department of Administrative Services](https://portal.ct.gov/DAS).
 
-## [Digital Services Georgia](https://digitalservices.georgia.gov/)
-
 ## [MA Digital Service](https://www.mass.gov/orgs/ma-digital-service)
 
 Part of the Executive Office of Technology Services and Security.
+
+## [New York State Digital Service](https://ogs.ny.gov/new-york-state-digital-service)
 
 ## [San Francisco Digital Services](https://digitalservices.sfgov.org/)
